@@ -22,6 +22,7 @@
 ## 🚀 Innovation Catalog
 
 ### 🧠 AI & Neural Systems
+- **[GhostRewriter](https://github.com/michaelrapoport/GhostRewriter)**: AI manuscript rewriting workbench with story architecture, critique loops, and multi-model drafting.
 - **[Brain-to-text](https://github.com/michaelrapoport/Brain-to-text)**: Neuro-Phonetic Multi-Scale Transformer (NP-MST) for direct neural linguistic decoding.
 - **[After-Midnight-3.0](https://github.com/michaelrapoport/After-Midnight-3.0)**: An autonomous idea factory designed for enablement and creative expansion.
 - **[Auto_Claude_100k](https://github.com/michaelrapoport/Auto_Claude_100k)**: Advanced modify of AutoGPT optimized for the Claude 100k API.
